@@ -1,3 +1,4 @@
+Aim: Implement binary search trees
 Team Members:
 Manindra Kumar Anantaneni : mxa180038	
 Vineet Vats - vxv180008
